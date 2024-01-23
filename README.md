@@ -31,7 +31,6 @@
 <br/> 
 
 <div align="center">
-  <h2>Contato</h2>
   <a href="https://github.com/INTLPiva">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=INTLPiva&layout=compact&langs_count=7&theme=dracula"/>
 </div>
@@ -39,7 +38,8 @@
 <br/> 
 <br/> 
 
-<div align="start">
+<div align="center">
+  <h2>Contato</h2>
   <a href="https://www.linkedin.com/in/lucas-piva-oliveira/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href = "mailto:lucas.piva@gec.inatel.br"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
 </div> 
