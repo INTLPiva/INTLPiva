@@ -1,5 +1,7 @@
-<div align="center">
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=36BCF7&height=120&section=header"/>
 
+<div align="center">
+  
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&random=false&width=435&lines=Ol%C3%A1%2C+eu+sou+o+Lucas;Desenvolvedor+Front-End)](https://git.io/typing-svg)
 
 </div>
@@ -42,5 +44,6 @@
   <h2>Contato</h2>
   <a href="https://www.linkedin.com/in/lucas-piva-oliveira/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href = "mailto:lucas.piva@gec.inatel.br"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
-</div> 
-</div> 
+</div>
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=36BCF7&height=120&section=footer"/>
